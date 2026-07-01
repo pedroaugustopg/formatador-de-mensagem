@@ -1,4 +1,4 @@
-## Formatador de Mensagem
+# Formatador de Mensagem
 
 Exibição de Mensagens Decoradas.
 
