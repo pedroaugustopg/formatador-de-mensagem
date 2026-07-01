@@ -1,4 +1,4 @@
-Exibição de Mensagens Decoradas
+Exibição de Mensagens Decoradas.
 
 Este programa implementa um método que recebe uma mensagem e a exibe envolvida por uma moldura 
 composta pelo caractere ~.
