@@ -1,15 +1,17 @@
+## Formatador de Mensagem
+
 Exibição de Mensagens Decoradas.
 
 Este programa implementa um método que recebe uma mensagem e a exibe envolvida por uma moldura 
 composta pelo caractere ~.
 
-⚙️ Funcionalidades:
+# ⚙️ Funcionalidades
 
 - Recebe uma mensagem como parâmetro
 - Calcula automaticamente o tamanho da moldura
 - Exibe a mensagem entre linhas decorativas
 
-🎯 Objetivos de aprendizagem:
+# 🎯 Objetivos de aprendizagem
 
 - Desenvolvimento de métodos reutilizáveis
 - Utilização de parâmetros e sobrecarga de métodos
@@ -19,12 +21,12 @@ composta pelo caractere ~.
 - Entrada e saída de dados pelo console
 - Organização do código em múltiplas classes
 
-🛠️ Tecnologias utilizadas
+# 🛠️ Tecnologias utilizadas
 
 - Java
 - JDK 11 ou superior
 
-🚀 Como executar
+# 🚀 Como executar
 
 - Clone este repositório
 - Abra o projeto em sua IDE Java de preferência
@@ -32,6 +34,6 @@ composta pelo caractere ~.
 - Execute a classe que contém o método main
 - Interaja com o programa pelo terminal, quando aplicável
 
-📖 Finalidade
+# 📖 Finalidade
 
 Este repositório foi criado para registrar minha evolução no aprendizado de Java por meio da implementação de exercícios práticos, reforçando conceitos essenciais da linguagem e boas práticas de organização de código.
